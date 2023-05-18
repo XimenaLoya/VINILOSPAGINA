@@ -1,0 +1,37 @@
+[
+    {
+        "idVinilo": 1,
+        "nombreArtista": "Banda Cool",
+        "nombreAlbum": "Sin Título",
+        "precio": "$29.99",
+        "activo": true
+    },
+    {
+        "idVinilo": 2,
+        "nombreArtista": "Banda Cool",
+        "nombreAlbum": "Sin Título",
+        "precio": "$29.99",
+        "activo": true
+    },
+    {
+        "idVinilo": 3,
+        "nombreArtista": "Banda Cool",
+        "nombreAlbum": "Sin Título",
+        "precio": "$29.99",
+        "activo": true
+    },
+    {
+        "idVinilo": 4,
+        "nombreArtista": "Banda Cool",
+        "nombreAlbum": "Sin Título",
+        "precio": "$29.99",
+        "activo": true
+    },
+    {
+        "idVinilo": 5,
+        "nombreArtista": "Banda Cool",
+        "nombreAlbum": "Sin Título",
+        "precio": "$29.99",
+        "activo": true
+    }
+]

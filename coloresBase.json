@@ -1,0 +1,57 @@
+[
+    {
+        "idColorBase": 1,
+        "color": "#FFFF00",
+        "nombre": "amarillo",
+        "activo": true
+    },
+    {
+        "idColorBase": 2,
+        "color": "#FF0000",
+        "nombre": "rojo",
+        "activo": true
+    },
+    {
+        "idColorBase": 3,
+        "color": "#ff8000",
+        "nombre": "naranja",
+        "activo": true
+    },
+    {
+        "idColorBase": 4,
+        "color": "#008000",
+        "nombre": "verde",
+        "activo": true
+    },
+    {
+        "idColorBase": 5,
+        "color": "#0000FF",
+        "nombre": "azul",
+        "activo": true
+    },
+    {
+        "idColorBase": 6,
+        "color": "#F7BFBE",
+        "nombre": "rosa",
+        "activo": true
+    },
+    {
+        "idColorBase": 7,
+        "color": "#800080",
+        "nombre": "morado",
+        "activo": true
+    },
+    {
+        "idColorBase": 8,
+        "color": "#000000",
+        "nombre": "negro",
+        "activo": true
+    },
+    {
+        "idColorBase": 9,
+        "color": "#FFFFFF",
+        "nombre": "blanco",
+        "activo": true
+    }
+    
+]

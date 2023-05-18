@@ -1,0 +1,138 @@
+[
+    {
+        "idFiltro": 1,
+        "nombre": "Precio",
+        "opciones": [
+            {
+                "nombre": "bajo"
+            },
+            {
+                "nombre": "medio"
+            },
+            {
+                "nombre": "alto"
+            }
+        ]
+        
+    },
+    {
+        "idFiltro": 2,
+        "nombre": "Titulo",
+        "opciones": [
+            {
+                "nombre": "tituloA"
+            },
+            {
+                "nombre": "tituloB"
+            },
+            {
+                "nombre": "tituloC"
+            },
+            {
+                "nombre": "tituloD"
+            }
+        ]
+        
+    },
+    {
+        "idFiltro": 3,
+        "nombre": "Artista",
+        "opciones": [
+            {
+                "nombre": "artistaA"
+            },
+            {
+                "nombre": "artistaB"
+            },
+            {
+                "nombre": "artistaC"
+            },
+            {
+                "nombre": "artistaD"
+            }
+        ]
+        
+    },
+    {
+        "idFiltro": 4,
+        "nombre": "Año",
+        "opciones": [
+            {
+                "nombre": "1999"
+            },
+            {
+                "nombre": "2000"
+            },
+            {
+                "nombre": "2001"
+            },
+            {
+                "nombre": "2002"
+            },
+            {
+                "nombre": "2003"
+            },
+            {
+                "nombre": "2004"
+            },
+            {
+                "nombre": "2005"
+            },
+            {
+                "nombre": "2006"
+            },
+            {
+                "nombre": "2007"
+            },
+            {
+                "nombre": "2008"
+            },
+            {
+                "nombre": "2009"
+            },
+            {
+                "nombre": "2010"
+            },
+            {
+                "nombre": "2011"
+            },
+            {
+                "nombre": "2012"
+            },
+            {
+                "nombre": "2013"
+            },
+            {
+                "nombre": "2014"
+            },
+            {
+                "nombre": "2015"
+            },
+            {
+                "nombre": "2016"
+            },
+            {
+                "nombre": "2017"
+            },
+            {
+                "nombre": "2018"
+            },
+            {
+                "nombre": "2019"
+            },
+            {
+                "nombre": "2020"
+            },
+            {
+                "nombre": "2021"
+            },
+            {
+                "nombre": "2022"
+            },
+            {
+                "nombre": "2023"
+            }
+        ]
+        
+    }
+]

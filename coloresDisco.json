@@ -1,0 +1,57 @@
+[
+    {
+        "idColorDisco": 1,
+        "color": "#FFFF00",
+        "nombre": "amarillo",
+        "activo": true
+    },
+    {
+        "idColorDisco": 2,
+        "color": "#FF0000",
+        "nombre": "rojo",
+        "activo": true
+    },
+    {
+        "idColorDisco": 3,
+        "color": "#ff8000",
+        "nombre": "naranja",
+        "activo": true
+    },
+    {
+        "idColorDisco": 4,
+        "color": "#008000",
+        "nombre": "verde",
+        "activo": true
+    },
+    {
+        "idColorDisco": 5,
+        "color": "#0000FF",
+        "nombre": "azul",
+        "activo": true
+    },
+    {
+        "idColorDisco": 6,
+        "color": "#F7BFBE",
+        "nombre": "rosa",
+        "activo": true
+    },
+    {
+        "idColorDisco": 7,
+        "color": "#800080",
+        "nombre": "morado",
+        "activo": true
+    },
+    {
+        "idColorDisco": 8,
+        "color": "#000000",
+        "nombre": "negro",
+        "activo": true
+    },
+    {
+        "idColorDisco": 9,
+        "color": "#FFFFFF",
+        "nombre": "blanco",
+        "activo": true
+    }
+    
+]
